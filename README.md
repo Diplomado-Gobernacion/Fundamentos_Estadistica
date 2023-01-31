@@ -1,2 +1,2 @@
-# Ciencia-de-Datos-Gobernacion-de-Santander-
-Módulo Fundamentos del Análisis Estadístico
+# Fundamentos del Análisis Estadístico
+Diplomado: Introducción a la Ciencia de Datos
